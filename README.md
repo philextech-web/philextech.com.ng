@@ -36,7 +36,7 @@ It serves as the **official corporate website** for PhilexTech — presenting ou
 ## 👨‍💻 Developer
 **Aungwa Sesugh Gabriel**  
 Founder — PhilexTech Web and Software Development Company  
-📧 [gabrielalluguwa@gmail.com](mailto:gabrielalluguwa@gmail.com)  
+📧 [sesughgabriel2002@gmail.com](mailto:gabrielalluguwa@gmail.com)  
 🌍 [https://philextech.com.ng](https://philextech.com.ng)
 
 ---
